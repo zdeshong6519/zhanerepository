@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Documen</title>
+<!-- TemplateEndEditable -->
+	<!-- TemplateBeginEditable name="head" -->
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="container">
+  <header></header>
+  <nav>
+	<ul> <li> <a href="#">About</a></li>
+		<li><a href="../pages/blog.html">Blog</a></li>
+		<li><a href="../pages/gallery.html">Gallery</a></li>
+		<li><a href="../contact.html">Contact</a></li>
+		
+    </ul>
+  </nav>
+  <!--Begin floated elements-->
+  <aside>
+    <p>I am a 17 year old boy who goes to Cox Mill High School, come along as a show you guys a little bit about myself.</p>
+    <p>by Zhane Williams</p>
+  </aside>
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1>Page Titile</h1>
+  </main>
+  <!-- TemplateEndEditable --><!--End flaoted elements-->
+  <footer>Content for New footer Tag Goes Here</footer>
+</div>
+</body>
+</html>
